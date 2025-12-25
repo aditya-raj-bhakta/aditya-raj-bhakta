@@ -43,3 +43,55 @@ aditya@github:~$ cat about_me.txt
 > Always learning, always coding.
 
 aditya@github:~$ 
+```
+
+<br/>
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4 align="center">Languages & Frameworks</h4>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,js,c,cpp,nodejs,express,react,nextjs,mongodb,mysql,postgres&theme=dark" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h4 align="center">DevOps & Tools</h4>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,docker,vscode,neovim,postman&theme=dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br/>
+
+### 📊 System Analytics
+
+<div align="center">
+  <p>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aditya-raj-bhakta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=0d1117" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj-bhakta&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff41&text_color=ffffff&bg_color=0d1117" />
+  </p>
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-raj-bhakta&theme=tokyonight&hide_border=true&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&background=0d1117" />
+</div>
+
+<br/>
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aditya-raj-bhakta/aditya-raj-bhakta/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=slice&color=00ff41&height=80&section=footer&text=SYSTEM%20OFFLINE&fontSize=20&fontColor=0d1117&fontAlignY=60" width="100%" />
+</div>
