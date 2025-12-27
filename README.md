@@ -62,7 +62,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj-b
 ## 🐍 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/aditya-raj-bhakta/aditya-raj-bhakta/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/aditya-raj-bhakta/aditya-raj-bhakta/output/github-snake-neon.svg" />
 </div>
 
 ---
