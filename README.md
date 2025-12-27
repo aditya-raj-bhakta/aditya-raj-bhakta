@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=00FFCC&center=true&vCenter=true&width=880&lines=Aditya+Raj+Bhakta;AI+Learner+%7C+Full+Stack+Developer;Frontend+%2B+Backend+Engineering;Linux+First+Developer;Learning+by+Building+Real+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=00FFCC&center=true&vCenter=true&width=880&lines=Aditya+Raj+Bhakta;AI+Learner+%7C+Full+Stack+Developer;Frontend+%2B+Backend+Engineering;Learning+by+Building+Real+Systems" />
 
 
 </div>
