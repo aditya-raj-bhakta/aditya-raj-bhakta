@@ -6,12 +6,12 @@
 />
 
 <div align="center">
-
+<h1 align="center">Hi 👋, I'm Aditya Raj Bhakta</h1>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=00FFCC&center=true&vCenter=true&width=880&lines=Aditya+Raj+Bhakta;AI+Learner+%7C+Full+Stack+Developer;Frontend+%2B+Backend+Engineering;Learning+by+Building+Real+Systems" />
 
 
 </div>
-<h1 align="center">Hi 👋, I'm Aditya Raj Bhakta</h1>
+
 
 ---
 
