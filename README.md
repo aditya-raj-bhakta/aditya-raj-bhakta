@@ -2,7 +2,6 @@
 <img
   align="center"
   alt="coding"
-  
   src="https://github.com/aditya-raj-bhakta/aditya-raj-bhakta/blob/main/header.gif"
 />
 
