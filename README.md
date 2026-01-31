@@ -2,7 +2,7 @@
 <img
   align="center"
   alt="coding"
-  style="height:2000px"
+  style="height:200px"
   src="https://github.com/aditya-raj-bhakta/aditya-raj-bhakta/blob/main/header.gif"
 />
 
